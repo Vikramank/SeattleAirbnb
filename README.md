@@ -3,7 +3,7 @@ Repository to analyse Airbnb Seattle's dataset
 
 Dataset :  https://www.kaggle.com/airbnb/seattle/data
 
-Link to Medium post
+Link to Medium post: https://medium.com/@vikramaniitr/understanding-trends-in-airbnb-rentals-in-seattle-6f8ad2c0d158
 
 In this post I will analyse the given dataset and find answeres to the following questions: 
 
