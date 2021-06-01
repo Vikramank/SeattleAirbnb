@@ -24,7 +24,9 @@ Link to Medium post: https://medium.com/@vikramaniitr/understanding-trends-in-ai
 
 
 
-In this post I will analyse the given dataset and find answeres to the following questions: 
+In this post I will use CRISP DM framework to explore the dataset. 
+
+In particular analyse the given dataset and find answeres to the following Business questions: 
 
 * What are the available options to stay in Seattle ? 
 * What are some of characteristics of hosts?
