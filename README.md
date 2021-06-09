@@ -40,6 +40,7 @@ This repository has two jupyter notebooks.
 * EDA_listings notebook is to perform EDA and make plots from listings.csv file  
 * EDA_calendar notebook analyses data from calendar.csv
 file.  
+**Python packages used** : Numpy, Pandas, Matplotlib and seaborn 
 
 # Summary 
 * Property type, room type, neighborhood, cleanliness and ratings play a vital role in determining the price.
@@ -49,5 +50,5 @@ file.
 
 
 
-Python packages used : Numpy, Pandas, Matplotlib and seaborn 
+
 
