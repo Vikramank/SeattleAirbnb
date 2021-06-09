@@ -6,8 +6,8 @@ Repository to analyse Airbnb Seattle's dataset
 * [Dataset](#dataset)
 * [Motivation](#motivation)
 * [Goal](#goal)
-* [Summary](#summary)
 * [Files](#files)
+* [Summary](#summary)
 
 
 	
