@@ -21,6 +21,7 @@ Link to Medium post: https://medium.com/@vikramaniitr/understanding-trends-in-ai
 
 
 # Motivation 
+This project is a part of my Udacity  Data Scientist Nano degree course. Personally, I'm thrilled to do this project because I stayed in one of Airbnb's rental in Seatle. 
 
 
 
@@ -32,6 +33,12 @@ In particular analyse the given dataset and find answeres to the following Busin
 * What are some of characteristics of hosts?
 * What factors plays a vital role in determining the price?
 
+# Files 
+This repository has two jupyter notebooks. 
+* DataAnalysis notebook discuss the CRISP-DM framework and overview of the provided dataset   
+* EDA_listings notebook is to perform EDA and make plots from listings.csv file  
+* EDA_calendar notebook analyses data from calendar.csv
+file.  
 
 # Summary 
 * Property type, room type, neighborhood, cleanliness and ratings play a vital role in determining the price.
@@ -39,9 +46,7 @@ In particular analyse the given dataset and find answeres to the following Busin
 * As a visitor AirBnB in Seattle offers a wide range of staying options catering to different budgets and requirements in different neighbourhoods.
 
 
-# Files 
-This repository has two jupyter notebooks. EDA_listings notebook is to perform EDA and make plots from listings.csv file and EDA_calendar notebook analyses data from calendar.csv
-file. 
+
 
 Python packages used : Numpy, Pandas, Matplotlib and seaborn 
 
