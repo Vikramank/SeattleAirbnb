@@ -5,6 +5,7 @@ Repository to analyse Airbnb Seattle's dataset
 
 * [Dataset](#dataset)
 * [Motivation](#motivation)
+* [Goal](#goal)
 * [Summary](#summary)
 * [Files](#files)
 
@@ -23,7 +24,7 @@ Link to Medium post: https://medium.com/@vikramaniitr/understanding-trends-in-ai
 # Motivation 
 This project is a part of my Udacity  Data Scientist Nano degree course. Personally, I'm thrilled to do this project because I stayed in one of Airbnb's rental in Seatle. 
 
-
+# Goal
 
 In this post I will use CRISP DM framework to explore the dataset. 
 
